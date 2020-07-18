@@ -1,9 +1,9 @@
-name: SW_svile
+name: SkyWars
 author: svile
-description: SkyWars plugin
+description: SkyWars plugin for PocketMine-MP
 main: svile\sw\SWmain
 version: 0.7dev
-api: [3.0.0-ALPHA4]
+api: 3.14.0
 load: STARTUP
 
 commands:
