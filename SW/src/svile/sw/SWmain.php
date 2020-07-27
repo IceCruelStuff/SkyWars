@@ -83,7 +83,7 @@ class SWmain extends PluginBase
     public $economy;
 
 
-    public function onLoad()
+    public function onLoad() : void
     {
         if (!is_dir($this->getDataFolder()))
             @mkdir($this->getDataFolder() . "\x61\x72\x65\x6e\x61\x73", 0755, true);
