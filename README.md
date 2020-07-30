@@ -1,4 +1,4 @@
-# SkyWars - PocketMine plugin
+# SkyWars
 ![skywars](https://raw.githubusercontent.com/svilex/res/master/skywars.png)
 ---
 ### About
